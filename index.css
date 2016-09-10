@@ -1,0 +1,103 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add! */
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+header {
+  padding: 5px;
+  display: block;
+  width: 790px;
+}
+
+nav {
+  line-height:2.5;
+  background-color:blue;
+  width:200px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+a {
+    color:green ;
+}
+
+section {
+  width: 600px;
+  display: inline-block;
+}
+
+img {
+  display: inline-block;
+}
+
+img.flag{
+display: block;
+position: absolute;
+top: 0;
+left: 0px;
+width:200px;
+
+}
+
+
+img.bike{
+display: block;
+position: absolute;
+top: 0;
+right: 0;
+width:200px;
+}
+
+
+img.portland{
+display: block;
+width:600px;
+}
+
+
+h1 {
+  display: block;;
+  width: 1200px;
+  height: 80px;
+  text-align: center;
+}
+
+aside {
+  width: 200px;
+  position: absolute;
+  top: 140px;
+  right:0px;
+  vertical-align: top;
+  background-color:yellow;
+  font-size: ;
+  right: 0;
+}
+
+
+aside ul {
+  list-style-type: none;
+}
+
+*{
+  border: 2px red;
+
+}
+
+footer {
+  width: 790px;
+  background-color:;
+  text-align:;
+  padding:5px;
+  display: block;
+}

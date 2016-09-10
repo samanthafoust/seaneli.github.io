@@ -1,0 +1,113 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add! */
+
+html {
+  height: 100%;
+  margin: auto;
+  display: table;
+}
+
+body {
+  height: 100%;
+}
+
+header {
+  padding: 5px;
+  display: block;
+  width: 924px;
+}
+
+header h1 {
+  text-align: center;
+}
+
+img.flag{
+display: block;
+position: absolute;
+top: 0;
+left: 176px;
+width:200px;
+}
+
+
+img.bike{
+display: block;
+position: absolute;
+top: 0;
+right: 170px;
+width:200px;
+}
+
+
+img.portland{
+display: block;
+width:600px;
+}
+
+nav {
+  line-height:;
+  background-color: #69b578;
+  width:125px;
+  padding: 20px 15px 10px 5px;
+  text-align: left;
+  display: inline-block;
+  vertical-align: top;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+.stretch{
+  display: inline-block;
+  background-color: #69b578;
+}
+
+.stretch2{
+  display: inline-block;
+  background-color: white;
+}
+
+a {
+    color: ;
+}
+
+section {
+  width: 516px;
+  display: inline-block;
+  background-color: white;
+  padding: 50px;
+}
+
+aside {
+  width: 125px;
+  display: inline-block;
+  vertical-align: top;
+  background-color: #69b578;
+  font-size: ;
+  padding: 20px;
+}
+
+aside a {
+  color: black;
+}
+
+aside ul {
+  list-style-type: none;
+    text-align: left;
+-webkit-padding-start: 10px;
+}
+
+aside li {
+  text-align: left;
+}
+
+footer {
+  width: 924px;
+  background-color: #e6af2e;
+  text-align:;
+  padding:5px;
+  display: block;
+  text-align: center;
+}
